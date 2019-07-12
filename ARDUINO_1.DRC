@@ -1,0 +1,189 @@
+Date and Time : 07/12/19 12:31:22
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1831): Unconnected pin IC1,(AIN0/INT1)PD1 
+                    SCHEMATIC1, PAGE1  (459.74, 497.84) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(RTS/AIN5/INT6)PD6 
+                    SCHEMATIC1, PAGE1  (459.74, 485.14) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(AIN2/PCINT11)PC2 
+                    SCHEMATIC1, PAGE1  (459.74, 477.52) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(PCINT10)PC4 
+                    SCHEMATIC1, PAGE1  (459.74, 474.98) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(PCINT9/OC1B)PC5 
+                    SCHEMATIC1, PAGE1  (459.74, 472.44) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(OC1A/PCINT8)PC6 
+                    SCHEMATIC1, PAGE1  (459.74, 469.90) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(INT4/ICP1/CLK0)PC7 
+                    SCHEMATIC1, PAGE1  (459.74, 467.36) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(SS/PCINT0)PB0 
+                    SCHEMATIC1, PAGE1  (459.74, 462.28) 
+WARNING(ORCAP-1831): Unconnected pin IC1,(OC0B/INT0)PD0 
+                    SCHEMATIC1, PAGE1  (459.74, 500.38) 
+WARNING(ORCAP-1831): Unconnected pin J11,1 
+                    SCHEMATIC1, PAGE1  (599.44, 340.36) 
+WARNING(ORCAP-1831): Unconnected pin J11,4 
+                    SCHEMATIC1, PAGE1  (599.44, 347.98) 
+WARNING(ORCAP-1831): Unconnected pin J10,2 
+                    SCHEMATIC1, PAGE1  (508.00, 259.84) 
+WARNING(ORCAP-1831): Unconnected pin U3,NC/FB 
+                    SCHEMATIC1, PAGE1  (477.52, 330.20) 
+WARNING(ORCAP-1831): Unconnected pin U5A,-IN 
+                    SCHEMATIC1, PAGE1  (355.60, 274.32) 
+WARNING(ORCAP-1831): Unconnected pin J2,OUT 
+                    SCHEMATIC1, PAGE1  (584.96, 244.09) 
+WARNING(ORCAP-1831): Unconnected pin J2,2 
+                    SCHEMATIC1, PAGE1  (584.96, 249.17) 
+WARNING(ORCAP-1831): Unconnected pin J2,IN 
+                    SCHEMATIC1, PAGE1  (558.80, 244.09) 
+WARNING(ORCAP-1608): Net has no driving source SCK 
+                    SCHEMATIC1, PAGE1  (414.02, 241.30) 
+WARNING(ORCAP-1608): Net has no driving source N05106 
+                    SCHEMATIC1, PAGE1  (264.16, 472.44) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections N06652 
+                    SCHEMATIC1, PAGE1  (604.52, 469.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections VIN 
+                    SCHEMATIC1, PAGE1  (340.36, 248.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections N08680 
+                    SCHEMATIC1, PAGE1  (731.52, 419.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections N03964 
+                    SCHEMATIC1, PAGE1  (398.78, 477.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections SCK 
+                    SCHEMATIC1, PAGE1  (414.02, 241.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections N08676 
+                    SCHEMATIC1, PAGE1  (731.52, 421.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections N33218 
+                    SCHEMATIC1, PAGE1  (599.44, 358.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections N16387 
+                    SCHEMATIC1, PAGE1  (523.24, 259.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections N05106 
+                    SCHEMATIC1, PAGE1  (264.16, 472.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections 0 
+                    SCHEMATIC1, PAGE1  (452.12, 274.32) 
+
+Checking For Unconnected Bus Nets
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /YELLOW/2  Nets: 'N061710' and 'N061510'. 
+                    SCHEMATIC1, PAGE1  (513.08, 505.46) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /YELLOW/1  Nets: 'N06081' and 'N06072'. 
+                    SCHEMATIC1, PAGE1  (497.84, 505.46) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /YELLOW/2  Nets: 'N15639' and 'N061510'. 
+                    SCHEMATIC1, PAGE1  (452.12, 259.08) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /YELLOW/1  Nets: '0' and 'N06072'. 
+                    SCHEMATIC1, PAGE1  (452.12, 274.32) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C4/1  Nets: 'GND' and 'N15463'. 
+                    SCHEMATIC1, PAGE1  (698.50, 416.56) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C4/2  Nets: 'N08523' and 'GND'. 
+                    SCHEMATIC1, PAGE1  (698.50, 424.18) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C9/2  Nets: 'N06656' and 'N03828'. 
+                    SCHEMATIC1, PAGE1  (571.50, 467.36) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /U3/1  Nets: 'VCC' and 'GND'. 
+                    SCHEMATIC1, PAGE1  (441.96, 320.04) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C11/2  Nets: 'N06719' and 'N03800'. 
+                    SCHEMATIC1, PAGE1  (571.50, 457.20) 
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+ERROR(ORCAP-1616): Reference is invalid for this part YELLOW 
+                    SCHEMATIC1, PAGE1  (500.38, 502.92) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN2A 
+                    SCHEMATIC1, PAGE1  (449.58, 241.30) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN4B 
+                    SCHEMATIC1, PAGE1  (614.68, 513.08) 
+ERROR(ORCAP-1616): Reference is invalid for this part GREEN 
+                    SCHEMATIC1, PAGE1  (584.20, 302.26) 
+ERROR(ORCAP-1616): Reference is invalid for this part YELLOW 
+                    SCHEMATIC1, PAGE1  (449.58, 261.62) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN4A 
+                    SCHEMATIC1, PAGE1  (614.68, 515.62) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN1D 
+                    SCHEMATIC1, PAGE1  (579.12, 426.72) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN4C 
+                    SCHEMATIC1, PAGE1  (553.72, 312.42) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN4D 
+                    SCHEMATIC1, PAGE1  (553.72, 302.26) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN2D 
+                    SCHEMATIC1, PAGE1  (500.38, 464.82) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN1A 
+                    SCHEMATIC1, PAGE1  (337.82, 251.46) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN3D 
+                    SCHEMATIC1, PAGE1  (317.50, 464.82) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN1B 
+                    SCHEMATIC1, PAGE1  (337.82, 271.78) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN2C 
+                    SCHEMATIC1, PAGE1  (518.16, 492.76) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN3A 
+                    SCHEMATIC1, PAGE1  (317.50, 457.20) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN2B 
+                    SCHEMATIC1, PAGE1  (515.62, 502.92) 
+ERROR(ORCAP-1616): Reference is invalid for this part YELLOW 
+                    SCHEMATIC1, PAGE1  (502.92, 492.76) 
+ERROR(ORCAP-1616): Reference is invalid for this part U5A 
+                    SCHEMATIC1, PAGE1  (363.22, 266.70) 
+ERROR(ORCAP-1616): Reference is invalid for this part RN1C 
+                    SCHEMATIC1, PAGE1  (375.92, 414.02) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. YELLOW 
+                    SCHEMATIC1, PAGE1  (449.58, 261.62) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C4 
+                    SCHEMATIC1, PAGE1  (695.96, 419.10) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. YELLOW 
+                    SCHEMATIC1, PAGE1  (502.92, 492.76) 
+
+Report for Duplicate References
+ERROR(ORCAP-1631): Duplicate reference YELLOW 
+                    SCHEMATIC1, PAGE1  (449.58, 261.62) 
+ERROR(ORCAP-1631): Duplicate reference C9 
+                    SCHEMATIC1, PAGE1  (355.60, 457.20) 
+ERROR(ORCAP-1631): Duplicate reference C4 
+                    SCHEMATIC1, PAGE1  (695.96, 419.10) 
+ERROR(ORCAP-1631): Duplicate reference YELLOW 
+                    SCHEMATIC1, PAGE1  (502.92, 492.76) 
+ERROR(ORCAP-1631): Duplicate reference C11 
+                    SCHEMATIC1, PAGE1  (566.42, 454.66) 
+
+--------------------------------------------------
+Checking Entire Design: ARDUINO_1 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+#1 ERROR(ORCAP-36041): Duplicate Pin Name "5" found on Package CON8_0 , 8x1F-H8.5 Pin Number 4: SCHEMATIC1, PAGE1 (739.14, 497.84). Please renumber one of these.
+#2 ERROR(ORCAP-36041): Duplicate Pin Name "+" found on Package CON6AP , J4 Pin Number 2: SCHEMATIC1, PAGE1 (332.74, 401.32). Please renumber one of these.
+#3 ERROR(ORCAP-36041): Duplicate Pin Name "+" found on Package CON6AP , J4 Pin Number 3: SCHEMATIC1, PAGE1 (332.74, 401.32). Please renumber one of these.
+#4 ERROR(ORCAP-36041): Duplicate Pin Name "+" found on Package CON6AP , J4 Pin Number 4: SCHEMATIC1, PAGE1 (332.74, 401.32). Please renumber one of these.
+#5 ERROR(ORCAP-36041): Duplicate Pin Name "+" found on Package CON6AP , J4 Pin Number 5: SCHEMATIC1, PAGE1 (332.74, 401.32). Please renumber one of these.
+#6 ERROR(ORCAP-36041): Duplicate Pin Name "+" found on Package CON6AP , J4 Pin Number 6: SCHEMATIC1, PAGE1 (332.74, 401.32). Please renumber one of these.
+
+Checking Device with Zero pins  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? GND  GND  4  
+                    SCHEMATIC1, PAGE1  (398.78, 469.90) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? VCC  VCC  8  
+                    SCHEMATIC1, PAGE1  (391.16, 467.36) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
+   CONN ASY PCB 10	                       1	                       10x1F-H8.5: B  
+   LM358_1	                       1	                       U1: B  
+   CONN ASY FLEX 6	                       1	                       6x1F-H8.5: B  
